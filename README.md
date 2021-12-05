@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agustin
-- 👀 I’m interested in Data Science and Data Analytics
-- 🌱 I’m currently learning Machine Learning
+- 👀 Data Visualization Specialist
+- 🌱 My hobby is working with Datasets in Python and visualizing the results in Tableau/Power BI.
 
 
 <!---
