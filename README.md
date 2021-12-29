@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @agustin
-- 👀 Data Visualization Specialist
-- 🌱 My hobby is working with Datasets in Python and visualizing the results in Tableau/Power BI.
+- 👀 Data Visualization / Data Analysis / Data Science
 
 
 <!---
